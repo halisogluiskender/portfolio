@@ -5,10 +5,10 @@ import Link from "next/link";
 import { CiMenuFries } from "react-icons/ci";
 
 const Links = [
-  { name: "anasayfa", path: "/" },
+   { name: "anasayfa", path: "/" },
   { name: "hizmetlerim", path: "/hizmetlerim" },
-  { name: "hakkimda", path: "/hakkimda" },
-  { name: "islerim", path: "/islerim" },
+  { name: "hakkımda", path: "/hakkimda" },
+  { name: "İşlerim", path: "/islerim" },
 ];
 
 const MobileNav = () => {
