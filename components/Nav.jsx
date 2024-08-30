@@ -5,8 +5,8 @@ import { usePathname } from "next/navigation";
 const Links = [
   { name: "anasayfa", path: "/" },
   { name: "hizmetlerim", path: "/hizmetlerim" },
-  { name: "hakkimda", path: "/hakkimda" },
-  { name: "İslerim", path: "/islerim" },
+  { name: "hakkımda", path: "/hakkimda" },
+  { name: "İşlerim", path: "/islerim" },
 ];
 
 const Nav = () => {
